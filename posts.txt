@@ -2,7 +2,34 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-BEGIN
+MINIM BEGIN
+
+
+MINIM
+
+From the Latin word minimus, meaning "least" or "smallest".
+
+The minim.blog manifesto in ten principles:
+
+01 GOALS: Write about existential and digital minimalism.
+
+02 SCOPE: One post a week for six months until 03/2024.
+
+03 TIMED: Every Sunday for a maximum of thirty minutes.
+
+04 POSTS: Between 300-500 words in digestible plain text.
+
+05 EDITS: Only allowed within the wonderful thirty mins.
+
+06 TOOLS: Vim, LanguageTool for the final edits, and git.
+
+07 CODED: Web and feed in one file, no CSS, plain text.
+
+08 COSTS: Domain name only, €10 first year, €25 renew.
+
+09 SHARE: Send an email at minimblog[at]duck[dot]com.
+
+10 PROMO: This blog will not be promoted on social media.
 
 
 BEGIN
