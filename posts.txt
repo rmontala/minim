@@ -2,7 +2,32 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-EMPTY MINIM BEGIN
+BLOGS EMPTY MINIM BEGIN
+
+
+BLOGS
+
+Storytelling is, essentially what makes us human. Everybody has something to say; the two writing challenges that arise are "what" and "them."
+
+What am I going to write about? And, what if nobody will ever read it?
+
+I will read it.
+
+Following Manuel Moreale's* powerful initiative that empowered me to start this blog:
+
+01 BEGIN: Create a blog. There are plenty of platforms out there; find yours.
+
+02 WRITE: Start typing. Don't rethink; don't look back. Just publish your post.
+
+03 SHARE: Send it to me at minimblog[at]duck[dot]com and I'll be your first reader.
+
+If you have an RSS feed, I'll keep reading, and I'll add your blog to this list:
+
+*manuelmoreale.com
+hussainaajala.com
+alexisalzate.com
+lukealexdavis.co.uk
+coleroberts.dev
 
 
 EMPTY
