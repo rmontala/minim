@@ -2,7 +2,26 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-PACES BLOGS EMPTY MINIM BEGIN
+DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+DRAFT
+
+Something unsent, a work-in-progress, the first version of a document. We're very familiar with drafts, used in writing - when ideas come to thoughts, sentences, and paragraphs - and also in technology, especially with messaging tools. In essence, a way of saving some words for later.
+
+I knew what I wanted to write about when this project started, so I wrote the titles of the 28 posts that I've committed to write in the manifesto - and these are saved as an email draft. Of course, having that in mind helps simplify the drafting process. I know what I'm going to write the next week, so I think about it when doing other stuff, like walking. When it's time to write, I follow a method that consists of a) Bullet-point-list the structure, b) Write the thing, and c) Edit and publish. That's it, and that's what I did for this post:
+
+01 INTRO: Meaning, usage on writing and tech, benefits.
+
+02 STEPS: Titles, week think, bullets, writing, editing.
+
+03 MODEL: This post, stages with tools, only one draft.
+
+04 CLOSE: One way, think first, time it, question end.
+
+The initial unwritten thoughts help me to get inspired beforehand. The bullet-pointed structure makes me focus, so I can write a post in 30 minutes from one draft - without procrastinating and getting lost in perfection. I use vim to write without distractions, LanguageTool for the final edits, and git to commit the HTML and RSS changes to my repository.
+
+You know what you want to write about. Think first, time your work, and just publish it without looking back. In this post, I wanted to share my way, what works for me, and how does it work - that's what it is, one way. What's yours? Email me and let's share.
 
 
 PACES
