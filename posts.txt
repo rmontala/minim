@@ -2,7 +2,31 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-DRAFT PACES BLOGS EMPTY MINIM BEGIN
+PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+PLAIN
+
+Plain text has been with us since the sixties - and it doesn't look like it's leaving. We have been using it without being aware of it, via text editors - present on every single operating system - across emails, instant messaging, and last but not least, on social media posting. Before that, we go back to typewriters and handwriting.
+
+It's universal. It's simple. It's intuitive. It doesn't lose formatting. It just works.
+
+Twenty years after, the irruption of word processors during the eighties, apparently brought some "richness", also known as headings, bolds, italics, underlines, and lists - organized and unorganized. The nineties came with HTML, the new century with the cloud, and the rest is history.
+
+Let's talk about digital footprint. I've created a simple plain text file that contains a title, subtitle, two lorem ipsum paragraphs, and two lists. Then, I did the same with rich text, markdown, and HTML. The results are here in bytes:
+
+Plain: 487 
+Markdown: 487
+HTML: 788  
+Rich: 9069
+
+Plain text and markdown have the same file size, HTML is 62% bigger, and rich text is 19 times bigger. Yes, nineteen times. These documents occupy extra local and cloudy space, they live somewhere, they don't die.
+
+Perhaps it's time to start or follow a Plain Text Movement, defined by our small daily actions like taking notes with a text editor or switching to email plain text composing. In my opinion, it's also a matter of the way that we write and highlighting our content above its appearance.
+
+I'm writing this post from vim - an improved version of vi - that comes after their grandparents, qed and ed. Everything else follows the same principle.
+
+The most successful written stories don't have formatting. Do we need our words to be richer? I don't think so, plain and simple.
 
 
 DRAFT
