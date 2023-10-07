@@ -2,7 +2,26 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+ADOPT
+
+The Technology Adoption curve of a given product gets embraced by society because of power, money, timing, or the combination of the three. Take WhatsApp - launched in 2009, when smartphones were with us for about five years. WhatsApp solved the main problem that people had back then with the ability to send instant messages across platforms for free. This before and after and other releases like iMessage or Facebook Messenger, killed SMS.
+
+Great timing and key problem-solving made WhatsApp a big success - way before being acquired by Meta and way before the audio and video call functionalities. People loved it, adopted it, and made it the standard. Then, the whole thing became a monopoly.
+
+I remember initially resisting using the App. Obviously, I've ended up succumbing and using it, as well as performing a series of tests. Went back to a Nokia 100 for about six months and felt pretty happy without the "smartrush". The downside of that was that - literally - I was out of my circle of friends and family, some folks answered my calls and there was an uncomfortable and intimidating annoyance floating around. Then, I've started promoting more open and secure messaging Apps, like Telegram and Signal - quite an evangelist. Some people joined, nobody stayed.
+
+I don't need a smartphone. I'm not on social media, just make calls and occasional texting. Everything else on the Internet gets done from my laptop. A couple of years ago, I found balance discovering KaiOS and using a Nokia 800 Tough, that comes with WhatsApp - a big phew for everybody around me. It's been working well, especially battery-wise.
+
+The main problem is that Android and Apple don't understand each other - the robot uses the Rich Communication Services (RCS) Open Source protocol for their Messages, and the fruit their Push Notification service (APNs) proprietary protocol for their iMessage. Other standards like SMTP, IRC, RSS are really universal; you can communicate and use the client of your choice. Something that, probably, the creators of SMS had in mind. Perhaps Apple will switch to RCS and call it a day for the sake of universal communication not tied to a specific device.
+
+Wouldn't be nice to use your operating system's native messaging App and just write and send messages to people? Communicate, a pretty simple action that gets divided or monopolized by three of the five Big Tech - what a coincidence. Until then, there are some projects that solve part of the problem by unifying messaging Apps into one, like Beeper - currently beta-testing - or Texts.
+
+Hopefully, corporations will start looking at the real user problems and trusting that people will adopt it.
+
+P.S.: On November 16, 2023, Apple announced that they will adopt RCS in 2024.
 
 
 PLAIN
