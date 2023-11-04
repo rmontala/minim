@@ -2,7 +2,27 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+STYLE
+
+The irruption of mobile devices drastically changed web design; it made it evolve with responsiveness, and, in my opinion, it added partial simplicity. It looks like we're going back to the basics.
+
+If we compare it with the fashion industry, it also has its shows and awards, as well as trends that suddenly emerge and become best practices. The majority of them are pure fluffiness - rounded corners, gradients, animations. Why? To fit in or to solve a problem?
+
+Back to the essence of the web, examples like Motherfucking Website [1], koray er [2], or this very site show that the extremes can be a good thing. Quoting the first one, "all the problems we have with websites are ones we create ourselves". I wonder why there's the general, unwritten opinion that Times New Roman and blue links are ugly. I can tell you. Adoption of trends.
+
+Now, what's the most important thing for you? Content, interface, or both as an experience? These days, people with an average attention span are used to digesting short pills of information and content got "call-to-actionized". Visuals are more than needed because people don't read. What's the balance - if any, between design and readability?
+
+Something that fascinates and irritates me in equal parts is the default CSS values for HTML elements. Serif is like a traditional outfit, one that is timeless. This site uses the pre element because of its formatting and because it loads with a monospaced font. Why do these defaults not change? When was the last time that changed? I wonder. I think that a few improvements would make our lives way easier. Here are my top five: Responsive and dark/light mode meta tags, margin auto, ∼600px of max-width, and system-ui as font-family. Not to mention a more than desired automatic rendering of Markdown. Damn.
+
+People are used to certain experiences like call-to-actions, infinite scrolls, horizontal carousels... What's the equilibrium? When do we succumb? Now, the rise of smaller devices like watches and glasses will make things even smaller and simpler. The web is going to evolve along these lines.
+
+We need to wear clothes, and we need websites. The extremes are wonderful, and the trends are mainstream. The IndieWeb is there. At the end of the day, how do we design? For the audience, or by following our values and principles? Can we really influence and change these behaviors? I hope, because the web is not going out of style.
+
+[1] motherfuckingwebsite.com
+[2] korayer.de
 
 
 CABLE
