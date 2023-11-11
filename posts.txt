@@ -2,7 +2,24 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+INBOX
+
+The folder where all our emails land. A place that's full for some, empty for others. Introducing the inbox personas:
+
+01 WHATEVER: All emails live in the inbox, read or unread - like a visible history of thousands of items. The whatever just doesn't care.
+
+02 FILTERER: Incoming emails are manually filtered with a label - and sometimes moved into a folder. The filterer is extremely organized.
+
+03 AUTOMATE: Like the previous one but with automatic filtering - trying to achieve an inbox zero. The efficient version of the filterer.
+ 
+04 ARCHIVER: Everything gets archived independently of reading it or not - a permanent inbox zero. Select, maybe read it, and archive it.
+
+05 REMOVERS: Only the important messages have the luxury of staying - an act of simple liberation. The extremist version of the archiver.
+
+I've been all of them. Currently I'm an archiver professionally and a remover on a personal level. Which one are you?
 
 
 STYLE
