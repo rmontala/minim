@@ -2,7 +2,44 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+TASKS INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+TASKS
+
+First, I'd like to share that I'm halfway there towards the initial scope of this project. I want to thank you for reading and everybody who encouraged me to keep going. This is a task that gives me joy.
+
+And on that note, this post talks about tasks. We're used to them, we constantly do them on a daily basis. Workspace project management, personal shopping lists, weekend planning, you name it.
+
+At the end of the day, what's the minimum that we need to do a task, even if it only happens inside our minds? Here's an approach:
+
+01 WHAT: I mean, that's specifically needed. There's no task without knowing what the heck we're doing. Sometimes, with optional dimensions such as description, type, and tags among others.
+
+That would have been enough a century ago. The current days of immediacy and micromanagement require what comes next.
+
+02 WHEN: Knowing the due date it's crucial because time is ticking. We can call it orientating estimation, as it relates to the amount of tasks that we manage or the sense of urgency.
+
+Here you have a Minimum Project Management Software (MPMS), just copy-paste and edit:
+
+[X] TASK 1 (2023/11/01)
+[ ] TASK 2 (2023/12/01)
+[ ] TASK 3 (2024/01/01)
+
+Essentially, this is all we need to perform any task, even without writing it down. I'm going to have ice cream (what) now (when). Alright, we're done here - thanks for reading.
+
+After a couple of decades working with tasks, I realized the "why" is more important than anything else.
+
+03 WHY: It's a liberation, sometimes, an opener of a can of worms. It can simplify or make the task irrelevant. Things would be different if more "why"'s are asked, rinse and repeat.
+
+Too simple for you? No worries, let me share three bonuses:
+
+04 STATUS: This one can add value, especially in collaborative environments. To do, doing, and done; wonderfully displayed in a Kanban board. The physical act of drag and drop.
+
+05 WHO: Another one for teamwork. Although, sometimes it exemplifies the lack of clarity when managing teams and making decisions. It helps hold ourselves and the team accountable.
+
+06 PRIORITY: Prioritization is relative, everything can be high or low. The question here - again - is why. When I want ice cream now, I don't care about priority medium.
+
+Why do we need tools to manage our tasks? Perhaps we're doing too many things at the same time - empowered by the capitalist-induced concept of more, more, and even more. Acquisition, revenue, profit - sounds familiar? Stop, take some distance, and ask why. Doing less and doing it in a more meaningful way. Remember that these are tools and that sometimes, you don't need a task.
 
 
 INBOX
