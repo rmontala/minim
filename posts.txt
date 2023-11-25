@@ -2,7 +2,30 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-TASKS INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+UNIFY TASKS INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+UNIFY
+
+As an attempt of doing more with less, last week I've experimented trying to unify the website with the feed. The architectural changes were pretty clear, summarized in these three steps:
+		
+01 POSTS: Stop using plain text files for posts.
+		
+02 FEED: Adopt the RSS Atom syndication format.
+		
+03 UNIFY: Website and feed within the same file.
+		
+Steps one and two did happen - going back to a single-page-blog (including posts) and having more flexibility in terms of maintenance with Atom - three, unfortunately, did not happen.
+		
+Darek Kay and his "Style your RSS feed" [1] post inspired me. For blogs that are just text, XSLT is a great idea - basically keeping the site and feed on a single XML file that gets styling and XHTML output from an XSL template. I've played with that and found out that the template can do more than styling, it can automatically generate my POSTS menu; so, every time I post, I just need to write it, save the file, and commit my changes.
+
+That's awesome, right? But, what happened? Browser compatibility happened - particularly Safari's unavoidable popup asking for an RSS client and Opera's built-in feed reader. Others would avoid these issues and assume that the vast majority of users are under Chrome and Firefox, but I just can't, it goes against my values. That said, I might go back to testing phase in the future; watch the space.
+		
+It was a fun ride, though. I've learned from this experience. The main lesson that I'd like to share is about keeping it simple and following the standards. For now, HTML is HTML and RSS is RSS. Because sometimes, unifying doesn't work - and that's okay.
+
+P.S.: I've fixed the Opera issue after a week, and Safari's popup only shows up on Desktop - so I've decided to make the change, and I'm so proud of it.
+		
+[1] darekkay.com/blog/rss-styling/
 
 
 TASKS
