@@ -2,7 +2,58 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-TRAIN DOUBT UNIFY TASKS INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+ICONS TRAIN DOUBT UNIFY TASKS INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+ICONS
+
+We're surrounded by icons - if you close your eyes and think about three, I bet they'll come easily - ⚠, ☰, and ▶ came to me. I think that, at this stage, I don't need to specify that I'm talking about computing icons. To me, they're connectors that help understand an action independently of the language of the user.
+
+In the late eighties, some employees from Xerox and Apple started investigating the practicalities of creating a universal character set - and Unicode [1] was born. Currently, after fifteen versions and almost 150K characters, it's the reference text encoding standard. As a side note, Emoji is based in Unicode.
+
+Focusing on icons from the Web, what I find particularly fascinating is the evolution from images, across fonts, and ultimately emojis - socially accepted these days. I wonder why only a minority stuck to the classic Unicode characters. In my opinion, they add value and simplicity, as you don't need an external source.
+
+To be clear, I'm not aligned about Musk's brand moves in 𝕏. Independently of the name or icon, the only thing I find socially powerful is how simple can the logotype be shared, with just a copy and paste.
+
+If we dissect an average website; icons are mainly present for action, navigation, and search. Here we have an example of two plain text mockups, that contain ten elements, the first without and the second with them.
+
+Without icons:
+
+MENU    LOGO    SEARCH
+
+
+  PREV   PLAY   NEXT
+
+
+ Lorem ipsum dolor si
+
+        BUTTON
+
+
+FACEBOOK  X  INSTAGRAM
+
+With icons:
+
+☰         Ⓛ         ⌕
+
+
+  ←        ▶       →
+
+
+ Lorem ipsum dolor si
+
+       BUTTON ↗
+
+
+      ⓕ   𝕏   ⧇
+
+Which one would you pick? Why? Email me [2] and let's talk.
+
+We're visual people - hence, icons work well by design and by default; not to mention the fact that we've integrated them. My suggestion is to find balance by applying accessibility text fallbacks, like the first mockup. Perhaps next time you think about Font Awesome, you'll check out the Unicode Miscellaneous Symbols [3] first. ␃
+
+[1] unicode.org
+[2] minimblog[at]duck[dot]com
+[3] unicode.org/charts/PDF/U2600.pdf
 
 
 TRAIN
