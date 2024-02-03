@@ -2,7 +2,24 @@ Welcome to minim.blog, a place that talks about existential and digital minimali
 
 You can search the following posts by pressing ⌘ CTRL+F or tapping on ☰ Menu > ⌕ Find in Page.
 
-DRIVE LIKES INTRO RESET GROUP CLICK ICONS TRAIN DOUBT UNIFY TASKS INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+FONTS DRIVE LIKES INTRO RESET GROUP CLICK ICONS TRAIN DOUBT UNIFY TASKS INBOX STYLE CABLE TOOLS SPEED ADOPT PLAIN DRAFT PACES BLOGS EMPTY MINIM BEGIN
+
+
+FONTS
+
+Stand up and look around - typefaces are everywhere. In quotidian objects from your home, on the streets, and most definitely in your digital devices. With the exceptions of the particular cases of Comic Sans and Papyrus - jokes aside - the vast majority of fonts out there are "sans-serifized" to pretty much Arial and Helvetica, and vice versa. Mainstream, standard, and repetitive experiences, until we bump into something different, something bold, something very unique.
+
+Diving into digital font families can take hours and generate dead-end rabbit holes. You know these exceptional cases; they click instantly, and it shows the great job from the people behind it. Take the case of Atlassian's visual brand [1] with the prominent and tailored Charlie Sans family - when you load a page or read a document with this font, you automatically know that comes from them. In my opinion reaching this level of visual brand awareness results in great success.
+
+The other side of the coin brings the concept of fallbacks, and how to be compatible and consistent with your typefaces without losing your visual brand essence, and keeping the experience seamless. Let's welcome the Web Safe Fonts. I position myself in a perfectly balanced gray area - on one hand, I love brands that are bold picking a unique typeface with its fallbacks; on the other hand, I also love brands that exclusively rely on Web Safe Fonts. Simplicity to the extreme.
+
+Although I don't consider myself a designer, about eight years ago, I designed my first and only typeface with the very same name as this site. The minim typeface [2] is an open-source font designed to simplify and remove the superfluous. It was an amazing experience that showed me how difficult and detail-oriented the creation process is. It's a display font only available in uppercase, better for printing than for the Web. I remember working on a specific letter during weeks.
+
+Fonts change and grow like we do. As a kid, I was into the serifs Georgia and Garamond; the teenager me used the well-known, so-narrow Impact everywhere; and as an adult, the classic Helvetica got me until the discovery of Monospaced fonts. I feel something different when I read a paragraph in a fixed-width non-proportional typeface; something delightful that I can't explain. Courier New, DejaVu Sans Mono, SF Mono - you name it. Now, the Victor Mono [3] makes my days.
+
+[1] atlassian.design/foundations
+[2] 1001fonts.com/minim-font.html
+[3] rubjo.github.io/victor-mono
 
 
 DRIVE
